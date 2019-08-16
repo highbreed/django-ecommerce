@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+media_root/*
+static_root/*
+venv/*
+db.sqlite3
+thumbnail.png
+core/migrations/*
+
